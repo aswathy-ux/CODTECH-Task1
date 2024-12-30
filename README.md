@@ -1,7 +1,11 @@
-Name: ASWATHY L
+Name: ASWATHY 
+
 Company: CODTECH IT SOLUTIONS
+
 Duration: May to June 2024
+
 Date :20/12/2024
+
 Intern ID :CT08FGR
 
 Project: PERSONAL PORTFOLIO WEBSITE WITH BACKEND
